@@ -3,3 +3,7 @@ Día 1: Repo creado y clonado
 Carpetas: notes/ y src/
 
 Próximo: primer commit y push
+
+He ejecutado Main.java desde consola (javac + java)
+
+Estructura vista con tree
